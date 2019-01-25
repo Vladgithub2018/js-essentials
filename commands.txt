@@ -1,1 +1,18 @@
+commandline commands:
 
+ls - list contents in current folder
+echo "" > commands.txt - redirect content to file
+cd - change directory
+
+git commands:
+
+git init- init git repository
+git add commands.txt - add file 'commands.txt' to staging area
+git add . - add all files staging area
+git commit -m "Initial commit" - create commit
+git log - show log of all git commits
+git show [commit hash or name] - show commit content
+git status - show status in the working direcotry
+
+
+git push - push to github
